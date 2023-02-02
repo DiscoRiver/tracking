@@ -1,5 +1,6 @@
-date,mood(1-10),tiredness(1-10),foods
-29/01/2023,6,6,"noodles, cabbage, flapjack, biscuit, monster, salmon"
-30/01/2023,4,2,"oatmeal, noodles, biscuits, monster, pretzels, chicken sausage, spinach, eggs, cheese"
-31/01/2023,7,3,"oatmeal, chicken salad, spicy noodles, monster, lemon protein bar"
-01/02/2023,3,7,"oatmeal, noodles, lemon bar, cheese strip, monster, protein bar, salmon" 
+date,mood(1-10),tiredness(1-10),foods,note
+29/01/2023,6,6,"noodles, coffee, cabbage, flapjack, biscuit, monster, salmon",""
+30/01/2023,4,2,"oatmeal, coffee, noodles, biscuits, monster, pretzels, chicken sausage, spinach, eggs, cheese",""
+31/01/2023,7,3,"oatmeal, coffee, chicken salad, spicy noodles, monster, lemon protein bar",""
+01/02/2023,3,7,"oatmeal, coffee, noodles, lemon bar, cheese strip, monster, protein bar, salmon, cornetto",""
+02/02/2023,8,4,"oatmeal, coffee, lunchable, soup, spicy noodles, monster, protein bar","tired from lack of sleep"
